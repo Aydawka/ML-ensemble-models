@@ -38,7 +38,7 @@ import SupportIcon from './icons/IconSupport.vue'
 
     More instructions are available in <code>README.md</code>.
   </WelcomeItem>
-
+ccccccccccccccccccc
   <WelcomeItem>
     <template #icon>
       <EcosystemIcon />
