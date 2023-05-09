@@ -2,15 +2,9 @@
 
 <a name="section-name"> 
 </a>Reasons to use TypeScript over JavaScript https://www.typescriptlang.org/why-create-typescript
-## References
 
-- [Reference 1](#ref1)
-- [Reference 2](#ref2)
 
-### Reference 1 <a name="ref1"></a>
 
-This is the first reference.
+2<a id="2"></a>
 
-### Reference 2 <a name="ref2"></a>
-
-This is the second reference.
+3<a id="2"></a>
